@@ -1,4 +1,4 @@
-local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/GameList.lua"))()
+local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/Xenon-UI-coder/GAMELIST/refs/heads/main/N1NJ4_Gui.lua"))()
 
 for PlaceID, Execute in pairs(Games) do
     if PlaceID == game.PlaceId then
