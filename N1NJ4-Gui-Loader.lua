@@ -172,7 +172,7 @@ local function MNQEF_fake_script()
 	wait(1.5)
 	ScreenGui:Destroy()
 	
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Xenon-UI-coder/N1NJ4-Project/main/N1NJ4%20Setting.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Xenon-UI-coder/N1NJ4-Project/main/N1NJ4_V3.lua"))()
 
 end
 coroutine.wrap(MNQEF_fake_script)()
